@@ -1,2 +1,2 @@
-# go-utils
-go-utils
+# learn-go
+learn-go
